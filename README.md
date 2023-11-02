@@ -2,6 +2,8 @@
 
 ### Attributions 
 
-NPM Installations 
-- Svelte(https://kit.svelte.dev/docs/creating-a-project)
-- Tailwind CSS(https://tailwindcss.com/docs/guides/sveltekit)
+### NPM Installations 
+
+Installations
+- [Svelte](https://kit.svelte.dev/docs/creating-a-project)
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/sveltekit)
